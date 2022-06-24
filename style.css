@@ -1,0 +1,36 @@
+#chanakya
+		{
+     border:5px solid gold;
+	 width: 200px;
+	 height: 150px;
+	 border-radius: 30px;
+	 margin: 25px;
+	 padding: 01px 50px;
+	 }
+
+	 h1{ 
+		color: fuchsia;
+	    text-align: center;
+
+
+	 }
+	 #aling{
+
+	 text-align: center;
+	 }
+           	
+		
+		}
+            #hero{
+            	font-size:30px
+            	border:20px solid blue;
+            }
+			#input
+			{ size: 20px;}
+
+			p
+			{size:60px;
+			font-weight: 500;
+			font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+			
+			}
